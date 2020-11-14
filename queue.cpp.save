@@ -1,0 +1,23 @@
+//queue.cpp
+//michael alberda
+
+#include <iostream>
+using namespace std;
+
+struct node{
+int data;
+struct node *next
+};
+
+struct stacknode *top;
+
+void enqueue(int n)
+{
+struct node*temp;
+temp= new node();
+
+temp->data=n;
+temp->next=
+
+
+}
